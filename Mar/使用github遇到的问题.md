@@ -1,23 +1,43 @@
-PandocÎÊÌâ
-==========
+ç»ˆäºèƒ½å¤Ÿè¿›åˆ°è‡ªå·±çš„githubåšå®¢ä¸»é¡µï¼Œä½†æ˜¯å¹¶æ²¡æœ‰ç”¨åˆ°å…‹éš†çš„æ¨¡æ¿ã€‚
 
-ÖÕÓÚÄÜ¹»½øµ½×Ô¼ºµÄgithub²©¿ÍÖ÷Ò³£¬µ«ÊÇ²¢Ã»ÓĞÓÃµ½¿ËÂ¡µÄÄ£°å¡£
+Â 
 
-*pandoc* µÄÄ£°å£¬´¿ÎÄ±¾ÒÑ¾­¿ÉÒÔÁË£¬µ«ÊÇ *latex* Ê¼ÖÕÊ§°Ü¡£
+\*pandoc\* çš„æ¨¡æ¿ï¼Œçº¯æ–‡æœ¬å·²ç»å¯ä»¥äº†ï¼Œä½†æ˜¯ \*latex\* å§‹ç»ˆå¤±è´¥ã€‚
 
-**»ù±¾¸ÅÄî£º**
+Â 
 
-**repository** £ºA repository is usually used to *organize* a single project.
+\*\*åŸºæœ¬æ¦‚å¿µï¼š\*\*
 
-**branch£º**Branching is the way to work on different versions of a repository
+Â 
+
+\*\*repository\*\* ï¼šA repository is usually used to \*organize\* a single
+project.
+
+Â 
+
+\*\*branchï¼š\*\*Branching is the way to work on different versions of a
+repository
+
 at one time.
 
-**commit£º** On GitHub, saved changes are called commits .
+Â 
 
-**pull£º** Pull Requests are the heart of collaboration on GitHub
+\*\*commitï¼š\*\* On GitHub, saved changes are called commits .
 
-Í¬²½ÊÇÊ²Äª£¬À­È¡ºÍ»ñÈ¡£¬·ÖÖ§¾ßÌåÔõÃ´²Ù×÷£¬·ÖÖ§ÓëÎÄ¼ş¼ĞµÄ¹ØÏµ£¬ÈçºÎÖ¸¶¨ÔÚ·ÖÖ§ÄÚÍê³É£¬ÈçºÎ´´½¨»òÉ¾³ıÏîÄ¿£¬Ë³Ğò¡£
+Â 
 
-ÔõÃ´Ñù°ÑµçÄÔÀïÈÎÒ»¸öÎÄ¼ş¼ĞÀïµÄÄÚÈİ£¬·Åµ½ÎÒgithubÀïËùĞèÒªµÄµØ·½£¿
+\*\*pullï¼š\*\* Pull Requests are the heart of collaboration on GitHub
 
-?
+Â 
+
+åŒæ­¥æ˜¯ä»€è«ï¼Œæ‹‰å–å’Œè·å–ï¼Œåˆ†æ”¯å…·ä½“æ€ä¹ˆæ“ä½œï¼Œåˆ†æ”¯ä¸æ–‡ä»¶å¤¹çš„å…³ç³»ï¼Œå¦‚ä½•æŒ‡å®šåœ¨åˆ†æ”¯å†…å®Œæˆï¼Œå¦‚ä½•åˆ›å»ºæˆ–åˆ é™¤é¡¹ç›®ï¼Œé¡ºåºã€‚
+
+Â 
+
+æ€ä¹ˆæ ·æŠŠç”µè„‘é‡Œä»»ä¸€ä¸ªæ–‡ä»¶å¤¹é‡Œçš„å†…å®¹ï¼Œæ”¾åˆ°æˆ‘githubé‡Œæ‰€éœ€è¦çš„åœ°æ–¹ï¼Ÿ
+
+Â 
+
+è¿˜æ˜¯æ²¡æœ‰å¼„å¥½ã€‚
+
+ä¸»è¦å°±æ˜¯æˆ‘åœ¨æœ¬åœ°åšäº†ä¿®æ”¹åï¼Œå¦‚ä½•æ¥å—ã€‚
